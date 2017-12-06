@@ -1,0 +1,14 @@
+
+\frametitle{Simuladores en C++}
+\textcolor{blue}{OMNeT++}
+\begin{itemize}
+	\item Es un paquete de simulación de eventos discretos basado en C++.
+	\item Su objetivo es simular redes computacionales y otros sistemas distribuidos.
+	\item Es completamente programable y modular.
+	\item Permite simulaciones a gran escala formadas por modelos de componentes reutilizables.
+	\item Permite una fácil trazabilidad y depuración de los modelos de simulación a través de su interface gráfica de usuario que muestra los gráficos de la red y animaciones del flujo de los mensajes.
+	\item Permite al usuario modificar variables y objetos sin que éste deba entrar en términos de programación del modelo.
+	\item Es de código abierto y libre para uso académico y sin ánimo de lucro. Su versión comercial es OMNEST (desarrollada por Omnest Global, Inc).
+
+\end{itemize}
+
